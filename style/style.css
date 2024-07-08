@@ -135,7 +135,7 @@ padding-top: 20px;
     height: 400px;
     margin-bottom: 200px;
 }
-.casromar-content{
+.castomar-content{
     width: 1440px;
     height: 320px;
     background-color: rgba(39, 39, 39, 0.05);
@@ -145,7 +145,8 @@ padding-top: 20px;
     justify-content: space-evenly;
     text-align: center;
 }
-/* banner-2 start */
+/* banner-2 end */
+/* hot deal start */
 .hot-deal-container{
     max-width: 1740px;
     height: 720px;
@@ -190,3 +191,30 @@ text-align: center;
     justify-content: center;
     align-items: center;
 }
+/* hot deal end */
+/* card-2 start */
+.card-2-container{
+    width: 1640px;
+    height: 500px;
+    margin-bottom: 200px;
+}
+.card-2-content{
+    width: 1440px;
+    height: 420px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 22px;
+}
+.card-2-content .flower-card-2{
+    width: 342px;
+    height: 396px;
+
+}
+.card-2-content .flower-card-2 img{
+    width: 1005;
+    height: 100%;
+
+}
+/* card-2 end */
