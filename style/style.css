@@ -218,3 +218,65 @@ text-align: center;
 
 }
 /* card-2 end */
+/* latest deals section start */
+.latest-deals-container{
+    width: 1640px;
+    height: 500px;
+    margin-bottom: 200px;
+}
+.latest-deals-content{
+
+    background-image: url("../Flower Asset/Rectangle\ 9.png");
+    background-position: center;
+    background-size: cover;
+    width: 1440px;
+    height: 420px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+}
+.latest-deals-text{
+    margin-bottom: 30px;
+}
+.latest-deals-text h1{
+color: rgb(39, 39, 39);
+font-size: 40px;
+font-weight: 800;
+line-height: 48px;
+letter-spacing: 0%;
+text-align: center;
+}
+.latest-deals-text p{
+color: rgba(39, 39, 39, 0.6);
+font-size: 18px;
+font-weight: 400;
+line-height: 30px;
+letter-spacing: 0%;
+text-align: center;
+}
+.input-type input{
+    border-radius: 8px;
+    background: rgb(255, 255, 255);
+    padding: 20px 180px;
+    border: none;
+    font-size: 20px;
+    margin-right: 10px;
+}
+.input-type button{
+    border-radius: 8px;
+    background: rgb(229, 84, 115);
+    padding: 20px;
+    border: none;
+    font-size: 20px;
+    margin-right: 10px;
+    color: rgb(255, 255, 255);
+font-weight: 700;
+line-height: 24px;
+letter-spacing: 0%;
+}
+/* latest deals section end */
+/* footer section start */
+
