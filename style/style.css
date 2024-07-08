@@ -8,7 +8,7 @@ body{
 }
 
 .banner-container{
-    max-width: 1720px;
+    max-width: 1750px;
     height: 700px;
     background: rgba(229, 84, 115, 0.1);
     margin-bottom: 270px;
@@ -148,7 +148,7 @@ padding-top: 20px;
 /* banner-2 end */
 /* hot deal start */
 .hot-deal-container{
-    max-width: 1740px;
+    max-width: 1750px;
     height: 720px;
     margin-bottom: 240px;
     background: rgba(229, 84, 115, 0.13);
@@ -222,7 +222,7 @@ text-align: center;
 .latest-deals-container{
     width: 1640px;
     height: 500px;
-    margin-bottom: 200px;
+    margin-bottom: 300px;
 }
 .latest-deals-content{
 
@@ -279,4 +279,39 @@ letter-spacing: 0%;
 }
 /* latest deals section end */
 /* footer section start */
+.footer-container{
+    max-width: 1750px;
+    height: 500px;
+    background: rgb(17, 16, 16);
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
 
+.footer-container h1{
+font-size: 48px;
+font-weight: 800;
+line-height: 58px;
+letter-spacing: 0%;
+margin-bottom: 15px;
+}
+.footer-container p{
+    color: rgba(255, 255, 255, 0.9);
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0%;
+    margin-bottom: 15px;
+    }
+    .footer-container h5{
+        olor: rgba(255, 255, 255, 0.4);
+        font-family: Lato;
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 19px;
+        letter-spacing: 0%;
+        }
+        /* footer section end */
