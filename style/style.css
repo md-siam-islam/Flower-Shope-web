@@ -128,3 +128,20 @@ padding-top: 20px;
     height: 100%;
     border-radius: 50% 50% 0 0;
 }
+/* card section end */
+/* banner-2 start */
+.castomar-container{
+    width: 1640px;
+    height: 400px;
+    margin-bottom: 200px;
+}
+.casromar-content{
+    width: 1440px;
+    height: 320px;
+    background-color: rgba(39, 39, 39, 0.05);
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    text-align: center;
+}
